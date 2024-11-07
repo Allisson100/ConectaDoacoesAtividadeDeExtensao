@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "537517274575",
+    "project_id": "doacoes-69caa",
+    "storage_bucket": "doacoes-69caa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537517274575:android:299b121742923766568eba",
+        "android_client_info": {
+          "package_name": "com.allisson.conectadoacoes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ7KxE-HWM1W1btZYYHxSMoS59wmA8GMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
